@@ -1,0 +1,188 @@
+
+**Modified Text (English):**
+During the recent winter break, I engaged in joyful activities with my sister and celebrated the Chinese Lunar New Year with my family. 
+One of my classmates, with a charming curiosity, posed a fascinating question: which came first, the egg or the chicken? Initially annoyed, 
+I responded dismissively, expressing my reluctance to discuss physics during my vacation. However, intrigued by the captivating nature of 
+the problem, I chose to immerse myself in its study instead of completing any pending homework. [laughter]
+
+在寒假里，我和妹妹一起玩耍，愉快地与家人共度中国农历新年。一个颇为好奇的同学向我提出了一个引人入胜的问题，即鸡蛋和鸡哪一个先出现。一开
+始我有些烦恼，并说了声走开，我不想在假期讨论物理问题，但由于这是一个有趣的问题，所以我选择研究它，而不是完成任何未完成的作业。[笑声]
+
+She presented me with an illustration. This symbol, whose pronunciation has always eluded me, is known as epsilon zero. It not only 
+surfaces in the calculation of Coulomb's force but also in Gauss's law and even in Maxwell's equations. Additionally, why does 
+electrostatic force incorporate pi? What prompts the Inverse-square law to resemble gravitational potential force? These questions 
+are so compelling to me that I decided to create a video. I will commence from the very beginning.
+
+她给我展示了一张图片。这个符号，我一直不知道如何正确发音，被称为 epsilon zero。它不仅出现在库仑力的计算中，还出现在高斯定律和麦克斯韦方程中。
+此外，在电静力中为什么会有一个π呢？反比定律为何在这里如此类似引力势能？这些问题对我来说非常迫切，以至于我认为我应该制作一个视频。我将从最开始
+的地方开始。
+
+The year was 1745 when the Leyden jar, a device for storing static electricity, was accidentally and independently discovered by the 
+German inventor Ewald Georg von Kleist. The Leyden jar soon revolutionized the study of electrostatics. During that time, it became 
+evident that attraction occurs when two opposite charges approach, and repulsion occurs when two similar charges approach. This clarity, 
+while evident, also posed uncertainties about immediately calculating and defining the accurate value of the force of attraction. In 1760, 
+Bernoulli first hypothesized, without experimentation, that electrical attraction follows the law of the inverse square. I couldn't find 
+the original source of this hypothesis, but the experiments conducted by Franklin and Priestley, leading to the book "The History and 
+Present State of Electricity, with Original Experiments" which recorded Bernoulli's ideas, turned out to be connected with gravitational 
+attraction.
+
+那是在1745年，莱顿瓶，一种用于储存静电的装置，由德国发明家埃瓦尔德·乔治·冯·克莱斯特意外而独立地发现。很快，莱顿瓶彻底改变了静电学的研究。当时
+，有几个事实表明，当两个相反的电荷靠近时会发生吸引，而当两个相似的电荷靠近时会发生排斥。这一点是如此清晰却又不够明了，以至于吸引力的计算和确立
+准确值应立即进行，而伯努利在1760年首次假设电吸引力遵循反比平方定律，没有进行实验。我找不到这一点的原始来源，但由富兰克林和普里斯特利进行的实验
+导致了一本名为《电学的历史和现状，带有原始实验》的书，记录了伯努利的观点，结果与引力吸引有关。
+
+The experiment, according to the book, was conducted in a highly intelligent manner. Franklin initially discovered that there appeared to 
+be no charges inside an electric cup. He then contacted Joseph Priestley to perform an exact experiment to confirm this observation. 
+Priestley conducted this experiment on December 21st, 1766. He placed a hollow metallic vessel, electrified it, and by detecting the 
+inner surface, found no charge on it except near the opening. Moreover, there was no electric force in the air inside. If you are familiar 
+with gravitational theory, you know that the inside of a hollow ball does not experience any gravitational attraction, which appears quite 
+similar to the electric case. Priestley asserted that the attraction of electricity adheres to the same laws as that of gravitation and is, 
+therefore, according to the squares of the distances. However, he refrained from claiming its correctness, leaving a question mark.
+
+根据这本书，实验以非常聪明的方式进行。富兰克林首先发现电杯内似乎没有电荷，然后给约瑟夫·普里斯特利写信，要求进行一项确切的实验来证明这一观察结果。
+普里斯特利在1766年12月21日进行了这个实验。他首先放入一个中空的金属容器，然后电气化它。然后，通过检测内表面，他发现在其中除了靠近开口处没有电荷之
+外，空气内也没有电场。如果你了解引力理论，你会知道中空球的内部也不会受到任何引力吸引，这似乎与电场类似。因此，普里斯特利说，电的吸引力遵循与引力
+相同的定律，因此根据距离的平方。但是，他仍然没有断言其正确性，因为问题标志尚未解决。
+
+
+
+Then came Henry Cavendish. "The Electrical Researches of the Honourable Henry Cavendish," written by Maxwell, recorded most of the honorable 
+but secretive progress, including this. On page 106, it illustrated the apparatus used to determine the ratio of the inversely proportional 
+power to the distance, yielding results of 2+-1/60. Unfortunately, he did not publish the result, leaving it dormant in the papers he wrote 
+in the early 1770s.
+
+接着是亨利·卡文迪什。我们知道，由麦克斯韦编写的《亨利·卡文迪什的电学研究》记录了大部分光荣但神秘的进展，其中包括这一点。在第106页上，它绘制了用
+于确定反比功率与距离比率的装置，并得到了2+-1/60的结果。不幸的是，他没有发表这个结果，而是让它们在他在1770年代初写的文件中沉睡。
+
+The sequence of events truly began in 1785 when Coulomb first formally used the conclusion that the repulsive force follows the inverse 
+proportion of the square of the distance. He also conducted experiments, as depicted from the image shown here.
+
+整个事件序列在1785年开始，当库仑首次使用斥力遵循平方反比的结论时。但他还进行了一些实验，如我认为相当严肃的图片所示。
+
+
+The law, in its initial state, was described as follows: the magnitude or absolute value of the attractive or repulsive electrostatic force 
+between two point charges is directly proportional to the product of the magnitudes of their charges and inversely proportional to the 
+squared distance between them. Coulomb also demonstrated that oppositely charged bodies attract according to an inverse-square law:
+{\displaystyle |F|=k_{\text{e}}{\frac {|q_{1}||q_{2}|}{r^{2}}}}
+Here, ke is a constant, q1 and q2 are the quantities of each charge, and the scalar r is the distance between the charges.
+Later interpretations emphasize its significance to the development of the theory of electromagnetism, possibly even marking its starting 
+point, as it allowed meaningful discussions about the amount of electric charge in a particle. Although it shares similarities with the 
+inverse-square law of universal gravitation, but gravitational forces always lead to attraction, whereas electrostatic forces can cause 
+charges to attract or repel. Additionally, gravitational forces are considerably weaker than electrostatic forces.
+
+该定律在其初始状态下被描述为：两个点电荷之间的引力或斥力的大小或绝对值与它们电荷的大小的乘积成正比，与它们之间的平方距离成反比。库仑还展示了异极
+电荷之间的吸引遵循反比平方定律：
+{\displaystyle |F|=k_{\text{e}}{\frac {|q_{1}||q_{2}|}{r^{2}}}}
+这里，ke是一个常数，q1和q2是每个电荷的量，标量r是电荷之间的距离。
+后来的解释强调了这一定律对电磁理论的发展的重要性，甚至可能标志着其起点，因为它允许有关粒子中电荷数量的有意义的讨论。作为反比平方定律，该定律类似
+于普遍引力的反比平方定律，但是引力总是导致物体相互吸引，而电静力使电荷相互吸引或排斥。此外，引力相比电静力要弱得多。
+
+However, epsilon 0 does not appear in that formula. It was introduced by Oliver Heaviside to complement Thomson's "permeability"
+ in the 1880s. Despite its name, I am more interested in its value: when did epsilon 0 first get abstracted from ke? This is related 
+to Gauss in 1835. Initially developing ke as 1, he led to a new charge unit different from Coulomb. Then, without publishing his ideas, 
+he connected the law with the sphere. Although I cannot find his papers, I believe the reason he did this is due to his mathematical 
+acumen. The area of a sphere is 4 pi r squared, which includes a square! In situations of spherical geometry, it would be better to 
+include a factor of 4π in equations like Coulomb's law and write it in the form:
+{\displaystyle F=k'_{\text{e}}{\frac {{q'_{\text{s}}}^{2}}{4\pi r^{2}}}.}
+This is called "rationalization." Then, Gauss considered a shape that can contain a charge, closed and able to distinguish the inner 
+and outer sides. This is related to typology, as I mentioned in my previous video. As the shape can be chosen randomly, he used the 
+sphere instead and added the electric forces of each point on the area together, a process called integration that I discussed in the 
+last video, concluding a form familiar to us.
+
+然而，在该公式中并没有出现 epsilon 0。它是由奥利弗·赫维赛德在1880年代引入的，以补充汤姆逊的“磁导率”。尽管其名称如此，我更感兴趣的是 epsilon 0 
+是何时从 ke 中抽象出来的？实际上，这与1835年的高斯有关。他首先将 ke 发展为1，并导致了一个与库仑不同的新电荷单位。然后，在没有发表他的想法的情
+况下，他将该定律与球体联系起来。我找不到他的论文，但我相信他这样做的原因是他的数学头脑，球体的面积是4πr平方，其中有一个平方！在球面几何的情况下，
+最好在库仑定律等方程中包括一个4π的因子，并以以下形式写出：
+{\displaystyle F=k'_{\text{e}}{\frac {{q'_{\text{s}}}^{2}}{4\pi r^{2}}}.}
+这被称为“合理化”。然后，高斯考虑了一个能够容纳电荷的形状，该形状是封闭的，并能够区分内外两侧。这与我在上一个视频中提到的拓扑学有关。由于形状可以
+随机选择，他使用了球体，并将面积上每个点的电力相加，这就是我在上一个视频中谈到的积分过程，最终得出了我们熟悉的形式。
+
+
+A decade earlier, Faraday discovered electromagnetic induction through his experiments, emphasizing the concept of lines of force. 
+Later, when Gauss was inserting 4 pi into ke, Emil Lenz solved the problem of the direction of induction, and Franz Ernst Neumann 
+wrote down the equation to calculate the induced force by the change of magnetic flux, with the birth of the god - Maxwell. 
+Faraday's Law and Lenz's Law are well-known to us but did not provide a clear view at that time. Twenty years later, in 1860, 
+when Maxwell delved into the concepts of force lines and Bernoulli's contributions to fluid physics, he began contemplating the 
+connection between them. This led to the use of nabla in the field of electric potential and field. In "On The Physical 
+Lines of Force" (p42), he presented a form of the so-called electromotive forces, divided into three dimensions but using 
+capital E while presenting the epsilon 0 we know today. Then, in 1865, he wrote "A dynamical theory of the electromagnetic 
+field," with eight equations in total, and [G] representing Gauss's Law,
+{\displaystyle \nabla \cdot \mathbf {D} =\rho }
+though not in the original form. In 1873, he wrote "A treatise on electricity and magnetism," listing twelve general equations 
+of the electromagnetic field, including the eight from the 1865 paper.
+
+十年前，法拉第通过他的实验发现了电磁感应，并强调了力线的概念。后来，当高斯将4π插入 ke 时，艾米尔·伦兹解决了感应方向的问题，弗朗茨·恩斯特·诺伊曼
+写下了通过改变磁通计算感应力的方程，同年我们的神-麦克斯韦的诞生。法拉第定律和伦兹定律我们都很熟悉，但当时并没有提供清晰的宏图。直到20年后的1860年，
+当麦克斯韦阅读了力线的概念以及主要贡献于流体物理学的伯努利的概念时，他开始两者之间的联系。这导致在电势和电场领域使用 nabla。在《力线的物理》
+（第42页）中，他提出了所谓的电动势的形式，分为三个维度，但在展示我们今天所知的 epsilon 0 时使用大写 E。然后，在1865年，他写下了《电磁场的动
+力学理论》，总共有八个方程，其中 [G] 代表高斯定律，
+{\displaystyle \nabla \cdot \mathbf {D} =\rho }
+尽管不是以原始形式呈现。1873年，他写了《电学和磁学论》。列举了电磁场的十二个通用方程，其中包括1865年论文中的八个。
+
+
+Presciently, Maxwell also mentioned that although some equations could be combined to eliminate certain quantities, his objective 
+in the list was to express every relation of which there was any knowledge, rather than achieving compactness in mathematical 
+formulas. Interestingly, on page 44, he calculated that the speed of propagation of an electromagnetic field is approximately 
+the speed of light. Subsequently, Oliver Heaviside simplified Maxwell's theory down to four partial differential equations, 
+collectively known as Maxwell's equations. These will be discussed in the next video, where I will delve into 
+the equations in detail.
+
+富有预见性地，麦克斯韦还提到，尽管一些方程可以结合起来消除某些量，但他列出的目标是表达任何已知关系，而不是获得数学公式的简洁性。值得注意的是
+（第44页），他计算出电磁场的传播速度约为光速。随后，奥利弗·赫维赛德将麦克斯韦的理论简化为四个偏微分方程，现在统称麦克斯韦方程。
+这些将在下一个视频中讨论，届时我将详细探讨这些方程。
+
+后记 postscript
+
+The gods descended, not with a sudden impact, but rather quietly and subtly. The world no longer resembled its former self; light, 
+akin to a gentle beam, slowly illuminated the cosmos. This sparked the fall of the ether from the divine pedestal and Lorenz's 
+seemingly unjust shortening of humanity's stature. Another deity, brimming with immense love and wisdom, emerged. Amidst the 
+lively chatter, the verdict was passed, condemning Newton's tiny spheres to oblivion, unaware that they would soon return to 
+the mortal realm. It was an epoch of divine warfare, so grand that it surpassed the past and anticipated an unmatched future, 
+reminiscent of times gone by and unseen epochs yet to unfold.
+
+神降临了，但不是一蹴而就地，而是悄无声息地。世界不再是以前的模样了，光如同一道光一样缓慢地照亮了宇宙，引发了以太从神坛跌落、洛伦兹那缩短人类的看似
+不公的公平，以及另一位充满大爱并智慧的神明的到来。大家叽叽喳喳地，把牛顿的小球们彻底判了死刑，却不知他们在不久后又会回到人间。
+那是一个众神之战的时代，伟大到昔非今比，如前无古人，似后无来者。
+
+
+The gods descended, not with a sudden clap,
+But quiet, subtle, in a cosmic lap.
+The world transformed, lost its former guise,
+As gentle light unveiled celestial ties.
+
+The ether fell from its divine height,
+Lorenz's touch dimmed humanity's light.
+A new deity, with love profound,
+Wisdom vast, in grace, she was crowned.
+
+In lively chatter, the verdict resounds,
+Newton's spheres condemned to earthly bounds.
+Oblivious, they'd return anew,
+In divine warfare, an epoch true.
+
+A grand spectacle, surpassing the past,
+Anticipating a future so vast.
+A tale of old and epochs untold,
+In divine battles, destinies unfold.
+
+
+
+祂来悄无声，
+宙光微微映。
+古远形踪隐，
+辉柔故事精。
+
+以太去神座，
+不公洛伦兹。
+新祂乃爱姓，
+智滔塑绝迹。
+
+喧哗下决断，
+牛顿粒已斩。
+忽回凡间境，
+众人均未知。
+
+此乃群祂世，
+伟大胜今时。
+如前无古人，
+似后无来者。
