@@ -6,8 +6,22 @@
 
 </div>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Jintian-JTST alt=rahuldkjain/> </p>
-<p align="left"> <a href="https://twitter.com/JintianJts7822" target="blank"><img src="https://img.shields.io/twitter/follow/JintianJts7822?logo=twitter&style=for-the-badge" alt="JintianJts7822" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jintian-JTST" />
+
+  <a href="https://leetcode.com/jintian-jtst/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjintian-jtst&logo=leetcode&logoColor=yellow" />
+  </a>
+
+  <a href="wechat_qr_code.jpg">
+    <img src="https://img.shields.io/badge/WeChat-Jintian--JTST-brightgreen?style=flat-square&logo=wechat" />
+  </a>
+
+  <a href="https://twitter.com/JintianJts7822">
+    <img src="https://img.shields.io/twitter/follow/JintianJts7822?style=flat-square&logo=twitter" />
+  </a>
+</p>
+
 
 - 🔭 I'm currently working on **[A Generative Transformer self studying project](https://github.com/Jintian-JTST/Generative-Transformer).**
 
