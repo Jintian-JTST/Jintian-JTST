@@ -23,7 +23,7 @@
 </p>
 
 
-- 🔭 I'm currently working on **[A Generative Transformer self studying project](https://github.com/Jintian-JTST/Generative-Transformer).**
+- 🔭 I'm currently working on **[A Monte Carlo model for the standard time-spectrum mode](https://github.com/Jintian-JTST/2026-Summer-Research-Internship).**
 
 - 🌱 I'm currently learning **Physics in Exeter College, University of Oxford.**
 
