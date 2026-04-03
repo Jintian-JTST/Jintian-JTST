@@ -25,7 +25,7 @@
 
 - 🔭 I'm currently working on **[A Monte Carlo model for the standard time-spectrum mode](https://github.com/Jintian-JTST/2026-Summer-Research-Internship).**
 
-- 🌱 I'm currently learning **Physics in Exeter College, University of Oxford.**
+- 🌱 I'm currently learning **Physics in [Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/).**
 
 - 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality), an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback.**
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **jintian.wang@exeter.ox.ac.uk**
 
-- ⚡ Fun fact **I love Genshin Impact, Minecraft etc.
+- ⚡ Fun fact **I love [Genshin Impact](https://www.miyoushe.com/ys/accountCenter/postList?id=406542427), Minecraft etc.
 I am keen on video editing.**
 
 - 👨‍💻 All of my projects are available at **[github/Jintian-JTST](https://github.com/Jintian-JTST)**
@@ -45,6 +45,8 @@ I am keen on video editing.**
 - 📽️ View my videos on **[Bilibili](https://space.bilibili.com/1079192890?spm_id_from=333.1007.0.0)**
 
 - 📄 Know about my experiences **[Gcp](https://drive.google.com/drive/folders/1_A1lrQ6tz_VLdQZCoQRmFtSECmrjd_8G?usp=sharing)**
+
+- 🛠 Other accounts can be found on **[ORCID](https://orcid.org/0009-0009-6190-8403), [Zhihu](https://www.zhihu.com/people/jtst-on-bilibili)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
