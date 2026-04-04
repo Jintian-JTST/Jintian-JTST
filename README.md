@@ -23,7 +23,7 @@
 </p>
 
 
-- 🔭 I'm currently working on **[A Monte Carlo model for the standard time-spectrum mode](https://github.com/Jintian-JTST/2026-Summer-Research-Internship).**
+- 🔭 I'm currently working on a **[Muon g-2 Toy MC Simulation Model](https://github.com/Jintian-JTST/2026-Summer-Research-Internship).**
 
 - 🌱 I'm currently learning **Physics in [Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/).**
 
