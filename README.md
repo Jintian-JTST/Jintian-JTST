@@ -21,13 +21,20 @@
     <img src="https://img.shields.io/twitter/follow/JintianJts7822?style=flat-square&logo=twitter" />
   </a>
 </p>
-
+<p align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jintian-JTST&hide=contribs&show_icons=true&count_private=true&theme=dark&include_all_commits=true&rank_icon=github&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=efefef">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jintian-JTST&layout=compact&hide=javascript,openedge%20abl,gnuplot,xslt,jupyter%20notebook&theme=dark&hide_border=true&title_color=2f80ed&text_color=efefef">
+</a>
+</p>
 
 - 🌱 I'm currently learning **Physics in [Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/).**
 
 - 🔭 I'm currently working on a **[Muon g-2 Toy MC Simulation Model](https://github.com/Jintian-JTST/2026-Summer-Research-Internship).**
 
-- 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality), an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback.**
+- 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality)** (whose first edition was [OneTouchReality](https://github.com/CarterWells111/OneTouchReality)), **an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback.**
 
 - 🤝 I'm looking for help with **Finding future opportunities (eg. on Physics, M&CS, AI etc.).**
 
@@ -46,6 +53,8 @@
 - 💬 Ask me **any questions!**
 
 - 📫 How to reach me **jintian.wang@exeter.ox.ac.uk**
+
+
 
 
 
