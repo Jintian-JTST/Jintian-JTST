@@ -50,7 +50,7 @@
 
 - 🛠 Other accounts can be found on **[ORCID](https://orcid.org/0009-0009-6190-8403), [Zhihu](https://www.zhihu.com/people/jtst-on-bilibili)**
 
-- 💬 Ask me **any questions!**
+- 💬 Ask me **any questions!** Also chat with me via [JTST.skill](https://github.com/Jintian-JTST/JTST.skill).
 
 - 📫 How to reach me **jintian.wang@exeter.ox.ac.uk**
 
