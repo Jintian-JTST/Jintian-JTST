@@ -89,21 +89,16 @@
 
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=css" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=git" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=html" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=java" height="40" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=py" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" style="margin: 8px;" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="margin: 8px;" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" style="margin: 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" style="margin: 8px;" />
