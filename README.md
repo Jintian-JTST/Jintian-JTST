@@ -2,7 +2,7 @@
 <div align="center">
   
   # Hi 👋, I'm Jintian Wang
-  ### Oxford MPhys Year1 Student.
+  ### Oxford MPhys Year 1 Student.
 
 </div>
 
@@ -30,25 +30,25 @@
 </a>
 </p>
 
-- 🌱 I'm currently learning **Physics in [Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/).**
+- 🌱 I'm currently learning ***Physics*** in **[Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/)**.
 
-- 🔭 I'm currently working on a **[Muon g-2 Toy MC Simulation Model](https://github.com/Jintian-JTST/2026-Summer-Research-Internship).**
+- 🔭 I'm currently working on a **[Muon g-2 Toy MC Simulation Model](https://github.com/Jintian-JTST/2026-Summer-Research-Internship)**.
 
-- 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality)** (whose first edition was [OneTouchReality](https://github.com/CarterWells111/OneTouchReality)), **an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback.**
+- 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality)** (whose first edition was [OneTouchReality](https://github.com/CarterWells111/OneTouchReality)), **an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback**.
 
-- 🤝 I'm looking for help with **Finding future opportunities (eg. on Physics, M&CS, AI etc.).**
+- 🤝 I'm looking for help with **Finding future opportunities (eg. on Physics, M&CS, AI etc.)**.
 
-- ⚡ Fun fact **I play [Genshin Impact](https://www.miyoushe.com/ys/accountCenter/postList?id=406542427), Minecraft etc.**
+- 👨‍💻 All of my projects are available at **[github/Jintian-JTST](https://github.com/Jintian-JTST)**.
 
-- 👨‍💻 All of my projects are available at **[github/Jintian-JTST](https://github.com/Jintian-JTST)**
+- 🌏 My personal website can be found **[here](https://jintian-jtst.github.io/)**.
 
-- 📝 I regularly write articles on **[RedNote](https://www.xiaohongshu.com/user/profile/64b6959400000000140373a0)**
+- 📝 I regularly write articles on **[RedNote](https://www.xiaohongshu.com/user/profile/64b6959400000000140373a0)**.
 
-- 📽️ View my videos on **[Bilibili](https://space.bilibili.com/1079192890?spm_id_from=333.1007.0.0)**
+- 📽️ View my videos on **[Bilibili](https://space.bilibili.com/1079192890?spm_id_from=333.1007.0.0)**.
 
-- 📄 View my CV on **[Gcp](https://drive.google.com/drive/folders/1_A1lrQ6tz_VLdQZCoQRmFtSECmrjd_8G?usp=sharing)**
+- 🛠 Other accounts can be found on **[ORCID](https://orcid.org/0009-0009-6190-8403), [Zhihu](https://www.zhihu.com/people/jtst-on-bilibili)**.
 
-- 🛠 Other accounts can be found on **[ORCID](https://orcid.org/0009-0009-6190-8403), [Zhihu](https://www.zhihu.com/people/jtst-on-bilibili)**
+- ⚡ Fun fact: **I play [Genshin Impact](https://www.miyoushe.com/ys/accountCenter/postList?id=406542427), Minecraft etc**.
 
 - 💬 Ask me **any questions!** Also chat with me via [JTST.skill](https://github.com/Jintian-JTST/JTST.skill).
 
