@@ -21,14 +21,6 @@
     <img src="https://img.shields.io/twitter/follow/JintianJts7822?style=flat-square&logo=twitter" />
   </a>
 </p>
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jintian-JTST&hide=contribs&show_icons=true&count_private=true&theme=dark&include_all_commits=true&rank_icon=github&hide_border=true&title_color=2f80ed&icon_color=2f80ed">
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jintian-JTST&layout=compact&hide=javascript,openedge%20abl,gnuplot,xslt,jupyter%20notebook&theme=dark&hide_border=true&title_color=2f80ed">
-</a>
-</p>
 
 - 🌱 I'm currently learning ***Physics*** in **[Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/)**.
 
