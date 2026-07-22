@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jintian-JTST" />
 
-  <a href="https://leetcode.com/jintian-jtst/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjintian-jtst&logo=leetcode&logoColor=yellow" />
-  </a>
+
 
   <a href="wechat_qr_code.jpg">
     <img src="https://img.shields.io/badge/WeChat-Jintian--JTST-brightgreen?style=flat-square&logo=wechat" />
