@@ -22,7 +22,7 @@
 
 - 🌱 I'm currently learning ***Physics*** in **[Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/)**.
 
-- 🔭 I'm currently working on a **[Muon g-2 Toy MC Simulation Model](https://github.com/Jintian-JTST/2026-Summer-Research-Internship)**.
+- 🔭 I'm currently working on the *[*J-PARC PSXM design](https://github.com/Jintian-JTST/PSXM_sim)**.
 
 - 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality)** (whose first edition was [OneTouchReality](https://github.com/CarterWells111/OneTouchReality)), **an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback**.
 
