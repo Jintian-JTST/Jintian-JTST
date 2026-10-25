@@ -2,7 +2,7 @@
 <div align="center">
   
   # Hi 👋, I'm Jintian Wang
-  ### Oxford MPhys Year 1 Student.
+  ### Oxford MPhys Year 2 Student.
 
 </div>
 
@@ -22,11 +22,11 @@
 
 - 🌱 I'm currently learning ***Physics*** in **[Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/)**.
 
-- 🔭 I'm currently working on the **[J-PARC PSXM design](https://github.com/Jintian-JTST/PSXM_sim)**.
+- 🔭 I'm recently working on the **[DelayLens](https://github.com/Jintian-JTST/DelayLens)**, **[J-PARC](https://github.com/Jintian-JTST/2026-Summer-Research-Internship)**.
 
-- 👯 I'm looking to collaborate on **[SecondTouchReality](https://github.com/Jintian-JTST/SecondTouchReality)** (whose first edition was [OneTouchReality](https://github.com/CarterWells111/OneTouchReality)), **an open-source modular VR hand-gesture toolkit that turns camera + natural language into interactive Unity scenes with pinch grabbing and servo haptic feedback**.
+- 👯 I'm looking to collaborate on **[OneTapReality](https://github.com/CarterWells111/OneTapReality)**, **a local-first couple travel scrapbook demonstration app. Users actively select photos, fill in travel information, obtain an editable draft of the travel album, and save it on their devices**.
 
-- 🤝 I'm looking for help with **Finding future opportunities (eg. on Physics, M&CS, AI etc.)**.
+- 🤝 I'm looking for help with **Finding future opportunities (eg. on Physics, M&CS, AI, Quant etc.)**.
 
 - 👨‍💻 All of my projects are available at **[github/Jintian-JTST](https://github.com/Jintian-JTST)**.
 
