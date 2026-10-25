@@ -22,7 +22,7 @@
 
 - 🌱 I'm currently learning ***Physics*** in **[Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/)**.
 
-- 🔭 I'm recently working on the **[DelayLens](https://github.com/Jintian-JTST/DelayLens)**, **[J-PARC](https://github.com/Jintian-JTST/2026-Summer-Research-Internship)**.
+- 🔭 I'm recently working on **[DelayLens](https://github.com/Jintian-JTST/DelayLens)**, **[J-PARC muon g-2/EDM study](https://github.com/Jintian-JTST/2026-Summer-Research-Internship)**.
 
 - 👯 I'm looking to collaborate on **[OneTapReality](https://github.com/CarterWells111/OneTapReality)**, **a local-first couple travel scrapbook demonstration app. Users actively select photos, fill in travel information, obtain an editable draft of the travel album, and save it on their devices**.
 
